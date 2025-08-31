@@ -52,4 +52,4 @@ Add a build setup: Introduce Vite or Parcel for asset bundling, minification, an
 
 ## 🌍 Live Demo
 
-//link
+ >   [duvit.github.io](https://duvit.github.io/)
