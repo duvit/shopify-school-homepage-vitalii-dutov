@@ -1,0 +1,15 @@
+{
+  "extends": ["stylelint-config-standard", "stylelint-config-rational-order"],
+  "plugins": ["stylelint-order"],
+  "rules": {
+    "order/properties-order": [],
+    "declaration-block-no-duplicate-properties": true,
+    "color-hex-length": "short",
+    "selector-max-id": 0,
+    "selector-max-class": 4,
+    "max-nesting-depth": 3,
+    "declaration-no-important": true,
+    "selector-class-pattern": null,
+    "no-empty-source": null
+  }
+}
